@@ -453,7 +453,6 @@ function onloadDelay() {
             xtk.domutils.fireEvent(window, "komodo-post-startup");
             require("ko/profiler").save("event-post-startup");
             require("ko/profiler").stop("event-post-startup");
-            authenticateUser(); 
         }, 2500);
 
 // #if BUILD_FLAVOUR == "dev"
