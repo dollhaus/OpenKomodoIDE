@@ -34,7 +34,7 @@ sudo apt install git zip unzip wget mercurial subversion autoconf2.13 \
 #### SPECIAL DEPENDENCIES
 
 - perl-5.22.4 `I recommend using perlbrew.`
-- g++-4.9 `You have to find this on your own.`
+- g++-4.9 `https://github.com/gcc-mirror/gcc/releases/tag/releases%2Fgcc-4.9.2`
 
 <br />
 <br />
